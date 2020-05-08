@@ -1,0 +1,11 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>rj45</name>
+    <description>Gentoo overlay</description>
+    <owner>
+      <email>pischuhin@gmail.com</email>
+      <name>rj45</name>
+    </owner>
+    <source type="git">https://github.com/redj45/gentoo-overlay.git</source>
+  </repo>
+</repositories>

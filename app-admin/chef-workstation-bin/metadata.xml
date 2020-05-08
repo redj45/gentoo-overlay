@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>pischuhin@gmail.com</email>
+    <description>Denis Pischuhin</description>
+  </maintainer>
+  <longdescription>
+    Chef Workstation gives you everything you need to 
+    get started with Chef Infra and Chef InSpec — ad hoc 
+    remote execution, remote scanning, configuration tasks, 
+    cookbook creation tools as well as robust dependency and 
+    testing software — all in one easy-to-install package.
+  </longdescription>
+  <use>
+    <flag name="chef-workstation-app">Installing chef-workstation-app to /usr/bin</flag>
+  </use>
+</pkgmetadata>
